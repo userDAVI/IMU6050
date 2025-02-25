@@ -1,4 +1,5 @@
 // Inclusão das Bibliotecas
+//teste branch
 #include<Wire.h> //biblioteca de comunicação i2c
 
 // Endereco I2C do sensor MPU-6050
